@@ -1,0 +1,9 @@
+.content{
+    text-align: center;
+    border: solid 1px black;
+  }
+  .container{
+    display:flex;
+    justify-content: space-between;
+  }
+  
